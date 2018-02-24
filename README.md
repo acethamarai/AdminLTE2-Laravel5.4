@@ -1,4 +1,4 @@
-Laravel 5.4 integrated with AdminLTE2 Bootstrap Theme
+##Laravel 5.4 integrated with AdminLTE2 Bootstrap Theme
 
 Laravel is most popular & Well Syntax PHP framework. This project is Laravel 5.4 integrated with Bootstrap Admin/Dashboard Template Admin LTE2.
 How to Install
