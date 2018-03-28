@@ -9,11 +9,13 @@ Laravel is most popular & Well Syntax PHP framework. This project is Laravel 5.4
 <li>Create a Database</li>
 <li>Configure .env w.r.t your environment</li>
     
-- Install project dependency by running composer install
+<li>Install project dependency by running composer install</li>
 <pre><code>composer update --no-scripts</code></pre>
 <pre><code>php artisan migrate</code></pre>
 
-- Run simple web server php artisan serve
-- Open on http://localhost:8000
+<li>Run simple web server php artisan serve</li>
+- Open as http://localhost:8000
 or
-- Open on http://localhost/%projectname%/public/
+- Open as http://localhost/%projectname%/public/
+
+Hope you to help my project, taking forward bigger level.
