@@ -6,14 +6,15 @@ Laravel is most popular & Well Syntax PHP framework. This project is Laravel 5.4
 <h2>Steps to Setup this Project</h2>
 <li>Download this repository</li>
 <li>Extract to folder, Place it your www or htdocs</li>
-<li>Create a Database</li>
-<li>Configure .env w.r.t your environment</li>
+<li>Create a Database in Mysql</li>
+<li>Configure .env file, w.r.t your environment</li>
     
 <li>Install project dependency by running composer install</li>
 <pre><code>composer update --no-scripts</code></pre>
 <pre><code>php artisan migrate</code></pre>
 
-<li>Run simple web server php artisan serve</li>
+<li>Run your web server</li>
+<pre><code>php artisan serve</code></pre>
 <br/>
 <p>Open as http://localhost:8000</p>
 
