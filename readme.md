@@ -10,7 +10,7 @@ Laravel is most popular & Well Syntax PHP framework. This project is Laravel 5.4
     Configure .env w.r.t your environment
     
     Install project dependency by running composer install
-	<code>composer update --no-scripts</code>
+	<em>composer update --no-scripts</em>
 	<code>php artisan migrate</code>
     Run simple web server php artisan serve
     Open on http://localhost:8000
