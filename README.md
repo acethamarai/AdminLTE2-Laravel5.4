@@ -15,7 +15,6 @@ Laravel is most popular & Well Syntax PHP framework. This project is Laravel 5.4
 
 <li>Run your web server</li>
 <pre><code>php artisan serve</code></pre>
-<br/>
 <p>Open as http://localhost:8000</p>
 
 or
